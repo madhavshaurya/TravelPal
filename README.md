@@ -2,6 +2,10 @@
 
 TravelPal is a chatbot designed to provide travel recommendations and assistance. With TravelPal, users can ask any travel-related questions, such as seeking destination suggestions, getting tips for planning a trip, or asking for recommendations on activities and attractions.
 
+## Live Demo
+
+Check out the live deployment of TravelPal: [https://travelpal.streamlit.app/](https://travelpal.streamlit.app/)
+
 ## Features
 
 - **Travel Query Handling:** TravelPal can handle various travel-related queries, including destination recommendations, trip planning advice, and more.
