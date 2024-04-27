@@ -19,7 +19,7 @@ To use TravelPal:
 
 1. Install the necessary dependencies by running `pip install -r requirements.txt`.
 2. Set up your environment variables. Refer to the `.env.example` file for the required variables.
-3. Run the Streamlit app by executing `streamlit run app.py`.
+3. Run the Streamlit app by executing `streamlit run qachat.py`.
 4. Ask any travel-related questions in the input field and click "Submit" to get responses from TravelPal.
 
 ## Dependencies
